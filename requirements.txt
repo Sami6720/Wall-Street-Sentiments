@@ -1,0 +1,7 @@
+pandas==1.4.1
+Pillow==9.1.0
+praw==7.5.0
+psaw==0.1.0
+streamlit==1.8.1
+vaderSentiment==3.3.2
+yfinance==0.1.70
